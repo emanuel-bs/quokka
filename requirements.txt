@@ -1,4 +1,4 @@
-quokka~=0.0.0
+#quokka~=0.0.0
 Flask~=1.1.2
 PyYAML~=5.3.1
 napalm~=3.0.0
@@ -8,7 +8,7 @@ requests~=2.22.0
 dnspython~=1.16.0
 ntplib~=0.3.4
 ncclient~=0.6.7
-lxml~=4.5.1
+lxml>=4.6.2
 urllib3~=1.25.8
 psutil~=5.7.2
 pyshark~=0.4.2.11
